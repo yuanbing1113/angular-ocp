@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  text: 'Hello Nginx Dev'
+  text: 'Hello Dev'
 };
 
 /*
